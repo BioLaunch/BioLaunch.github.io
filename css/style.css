@@ -256,7 +256,7 @@ ol {
 	background: -webkit-gradient(linear, left top, right top, from(#ff1a6b), to(#2a34d0));
 	background: linear-gradient(to right, #ff1a6b, #2a34d0);
 	content: "";
-	opacity: 0.75;
+	opacity: 0.70;
 	z-index: -1;
 }
 
@@ -290,7 +290,7 @@ ol {
 .header .main-menu ul li a {
 	color: #fff;
 	display: inline-block;
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: 900;
 	padding: 15px 24px;
 	text-transform: uppercase;
@@ -446,8 +446,8 @@ ol {
 }
 
 .hero-items .single-hero-item {
-	height: 976px;
-	padding-top: 320px;
+	height: 610px;
+	padding-top: 200px;
 }
 
 .hero-items .single-hero-item span {
@@ -931,8 +931,8 @@ ol {
 -----------------------*/
 
 .hero-area {
-	height: 408px;
-	padding-top: 207px;
+	height: 600x;
+	padding-top:300px;
 }
 
 .hero-text h2 {
